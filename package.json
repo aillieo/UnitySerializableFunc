@@ -1,0 +1,11 @@
+{
+  "name": "com.aillieo.unity-serializable-func",
+  "displayName": "AillieoUtils Unity Serializable Func",
+  "description": "AillieoUtils Unity Serializable Func",
+  "version": "1.0.0",
+  "unity": "2020.3",
+  "license": "MIT",
+  "dependencies": {
+
+  }
+}
